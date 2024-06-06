@@ -1,0 +1,363 @@
+@media (max-width:1400px){
+    body{
+     
+
+    }
+    .section-banner .banner-img{
+   
+        top: 13% !important;
+
+    
+    }
+    .section-business .row{
+        height: 22.75rem !important; 
+    }
+}
+@media (max-width:1200px){
+    body,
+    html {
+      overflow-x: hidden;
+    }
+   
+    h1{
+        font-size: 2.1875rem;
+    }
+    h2{
+        font-size:1.875rem;
+    }
+    h3{
+        font-size: 1.5rem
+    }
+    h4{
+        font-size:1.25rem ;
+    }
+    p,a{
+        font-size: .875rem;
+        line-height: 1.125rem;
+    }
+    .navigation-wrap{
+        padding: 0 2rem;
+    }
+    .navigation-wrap .navbar-brand img{
+        width: 6.25rem;
+       }
+       .navigation-wrap .nav-link{
+        font-size: .5rem;
+       
+       }
+       .main-btn{
+        padding: .5rem .5rem;
+        font-size: .5rem;
+       
+       }
+       .banner-img{
+        top: 12.5% !important;
+        width: 100% !important;
+
+       }
+   
+       .section-business .row{
+        height: 18.75rem !important; 
+    }
+    .section-business h1{
+        font-size: 4rem;
+    }
+    .section-register .btn-grp .main-btn {
+      margin-right: .3125rem;
+    }
+    .section-register .btn-grp button{
+        font-size: 1rem;
+    
+    }
+    .section-testimonial .img-1 img,
+    .section-testimonial .img-2 img{
+        width: 12.25rem;
+    }
+    .section-testimonial h1{
+        font-size: 3rem;
+    }
+    .section-testimonial p{
+        font-size: 1rem;
+    }
+    .section-testimonial .test-belowtxt p{
+        font-size: 1rem;
+    }
+    .section-testimonial .test-belowtxt span{
+        line-height: 3rem;
+    }
+    
+}
+@media (max-width:992px){
+
+    .main-text{
+        margin-top: 5rem;
+    }
+   
+    .banner-img{
+     margin-top: 4.5%;
+       }
+       .section-course p{
+        font-size: .875rem;
+       }
+       .section-business>.row{
+        /* min-height: 30rem !important;  */
+        text-align: center;
+    
+        justify-content: flex-start !important;
+    }
+    .section-business ul{
+        margin-top: 0;
+    }
+    .section-business .btn-grp{
+        display: flex;
+        flex-direction: column;
+        justify-content:space-evenly;
+        align-items: center;
+
+       
+
+    }
+    .btn-grp button{
+        font-size: 1rem;
+    }
+    .section-business h1{
+        font-size: 3rem !important;
+        margin-bottom: 0 !important;
+
+    }
+  
+    .section-business .wrapper{
+        padding: 20rem 0 !important;
+    }
+    .section-course-outline .main-ul{
+        text-align: center;
+    }
+    .section-course-outline h1{
+        text-align: center;
+    }
+    .section-course-outline ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section-register .btn-grp{
+        display: flex;
+        flex-direction: column;
+      
+      }
+      .section-register .btn-grp .main-btn{
+          font-size: 1rem;
+    
+          margin-top:.8rem !important;
+     
+         
+      }
+      .section-course-facilate .box{
+        text-align: center;
+      }
+ .section-course-facilate .facilate-text{
+    margin-top: 2rem;
+    text-align: center;
+ }    
+ .section-course-facilate .box img{
+    width: 12rem;
+    border-radius: 0 4rem 0 0;
+ 
+ 
+}
+.section-event h1{
+    font-size: 3rem;
+
+  }
+  .flex{
+    width: 30%;
+
+}
+
+
+}
+@media (max-width:767px){
+    .navigation-wrap{
+        padding: 2rem 0;
+    }
+    .navigation-wrap .nav-link{
+        font-size: 1rem;
+    }
+    .navigation-wrap .main-btn{
+      font-size: 1rem;
+      padding: 1rem 4rem;      
+    }
+    .section-banner h1{
+        font-size: 2rem;
+        text-align: center;
+    }
+    .section-banner h3{
+        text-align: center;
+    }
+    .banner-text1 h3::after{
+   left:5%;
+    }
+    .text-para p{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        /* margin-top: 5rem;     */
+        font-weight:700;
+    }
+    .banner-text2 h4{
+       text-align: center;
+    }
+    .banner-text2 h3{
+        font-size:1.8rem ;
+        font-weight: 800;
+     text-align: center;
+    }
+    .banner-text2 h3 span{
+    font-size:.5rem ;
+   text-align: center;
+}
+.banner-text2 ul{
+    display: flex;
+    justify-content: space-between;
+    font-size: .8rem;
+}
+.banner-text2 p{
+ text-align: center;
+ display: block;
+
+}
+    .section-course h1{
+        font-size: 2rem;
+    }
+       .section-course p{
+        font-size: .8rem;
+        line-height: 1.375rem;
+        text-align: center;
+       }
+       .banner-img{
+        margin-top: 8%;
+       }
+       .section-attend{
+        text-align: center;
+       }
+       .section-attend ul{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       }
+       .section-attend h1{
+        font-size: 2rem !important;
+       }
+      .section-business .wrapper{
+       padding: 24rem 0 !important;
+      }
+       .section-business>.row{
+        /* height: 14rem !important;  */
+        text-align: center;
+    }
+    .section-business .btn-grp{
+        margin-top: 2rem;
+    }
+    .section-business h1{
+        font-size: 3rem !important;
+    }
+    
+    .section-business li{
+        font-size: .875rem;
+    }
+    .section-course-outline h1{
+        text-align: center;
+    }
+    .section-course-outline ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section-register .btn-grp{
+        display: flex;
+        flex-direction: column;
+      
+      }
+      .section-register .btn-grp .main-btn{
+          font-size: 1rem;
+    
+          margin-top:.8rem !important;
+      
+      }
+      .section-course-facilate .box{
+        padding: 0rem 0rem 0rem 0rem;
+           
+        
+    }
+    .section-course-facilate .box img{
+        width: 9rem;
+            border-radius: 0 4rem 0 0 !important;
+            border-bottom: 0 !important;
+
+        
+     
+    }
+
+      .section-testimonial .img-1 img,
+      .section-testimonial .img-2 img{
+          width:5rem;
+      }
+      .section-testimonial h1{
+          font-size: 3rem;
+      }
+      .section-testimonial p{
+          font-size: 1rem;
+      }
+      .section-testimonial .test-belowtxt p{
+          font-size: 1rem;
+      }
+      .section-testimonial .test-belowtxt span{
+          line-height: 3rem;
+      }
+      .section-event h1{
+        font-size: 2rem;
+
+      }
+      /* .section-footer{
+        padding: 2rem 0;
+      }
+       .fimg-1{
+        margin-bottom: 4rem;
+       } 
+      .text-end{
+        margin-top: 4rem;
+        text-align: start !important;
+        border: 2px solid red;
+    }
+    .text-end button{
+        padding: .625rem .9375rem;
+        font-size: 1rem;
+    } */
+    .section-footer{
+        padding: 0 2rem;
+    }
+    .footer-main{
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-between;
+        padding: 2rem 0;
+        gap: 1.5625rem;
+    }
+    .footer-main::after{
+        top: 100%;
+    }
+    .text-end{
+     
+        text-align: start !important;
+        
+    }
+    .text-end button{
+        padding: .625rem .9375rem;
+        font-size: 1rem;
+    }
+    .flex{
+        width: 40%;
+
+    }
+}
